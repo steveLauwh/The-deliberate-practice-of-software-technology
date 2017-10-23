@@ -145,11 +145,11 @@ int main()
 #include <map>
 #include <string>
 
-using namespace std ;
+using namespace std;
 
 int main() 
 { 
-    map<int, string> mp ;
+    map<int, string> mp;
     mp.insert(pair<int, string>(1, "steve"));
     mp.insert(pair<int, string>(2, "Lau"));
     mp.insert(pair<int, string>(3, "Li"));
@@ -163,7 +163,7 @@ int main()
     {
         if (it->second == "steve")
         {
-            mp.erase(it) ; // map 是关联式容器，调用 erase 后，当前迭代器已经失效
+            mp.erase(it); // map 是关联式容器，调用 erase 后，当前迭代器已经失效
         }
     }
 #endif
@@ -173,7 +173,7 @@ int main()
     {
         if (it->second == "steve")
         {
-            mp.erase(it++) ; // erase之后，令当前迭代器指向其后继。
+            mp.erase(it++); // erase 之后，令当前迭代器指向其后继。
         }
         else
         {
@@ -186,7 +186,7 @@ int main()
     {
         if (it->second == "Lau")
         {
-            it = mp.erase(it) ; // erase 的返回值是指向被删除元素的后继元素的迭代器
+            it = mp.erase(it); // erase 的返回值是指向被删除元素的后继元素的迭代器
         }
         else
         {
@@ -197,7 +197,7 @@ int main()
     map<int, string>::const_iterator citor ;
     for (citor = mp.begin(); citor != mp.end(); ++citor)
     {
-        cout << citor->first << ":" << citor->second << endl ;
+        cout << citor->first << " : " << citor->second << endl;
     }
 
     return 0; 
