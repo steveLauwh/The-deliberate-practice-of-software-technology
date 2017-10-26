@@ -1,3 +1,6 @@
 ## Linux Shell
 
-http://blog.csdn.net/he90227/article/details/39992815
+
+## 参考
+
+* [Linux 命令大全(手册)](http://man.linuxde.net/)
