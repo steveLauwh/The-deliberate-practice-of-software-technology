@@ -7,27 +7,27 @@ class Test
 public:
     Test(int x, int y) : i_x(x)
     {
-      i_y = y;
+        i_y = y;
     }
 
     int getX() const
     {
-      return i_x;
+        return i_x;
     }
 
     int getY()
     {
-      return i_y;
+        return i_y;
     }
 
     void setY(int y)
     {
-      i_y = y;
+        i_y = y;
     }
 
     void printInfo() const
     {
-      cout << getX() << endl;
+        cout << getX() << endl;
     }
 
     ~Test() {}
