@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 class Grandam
@@ -46,13 +46,13 @@ int main()
 
     ptr->introduce_self();
 
-	cout << sizeof(Grandam) << endl;  // 1
+    cout << sizeof(Grandam) << endl;  // 1
 
-	cout << sizeof(Mother) << endl;   // 4
+    cout << sizeof(Mother) << endl;   // 4
 
-	cout << sizeof(Aunt) << endl;     // 4
+    cout << sizeof(Aunt) << endl;     // 4
 
-	cout << sizeof(Daughter) << endl; // 8
+    cout << sizeof(Daughter) << endl; // 8
 
     return 0;
 }
