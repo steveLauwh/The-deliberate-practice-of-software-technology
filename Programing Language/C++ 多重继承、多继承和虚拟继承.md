@@ -107,4 +107,5 @@ class D : public B, public C
 * [多重继承、多继承、虚继承](http://blog.csdn.net/kkdd2013/article/details/51999896)
 * [C++ 中的继承](http://blog.csdn.net/chan0311/article/details/69791225)
 * [菱形继承的二义性和数据冗余问题](http://blog.csdn.net/chan0311/article/details/75579099)
+* [多重继承和虚继承的内存布局](http://blog.csdn.net/littlehedgehog/article/details/5442430)
 
