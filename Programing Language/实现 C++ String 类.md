@@ -12,12 +12,12 @@ public:
     String& operator=(const String &str);		// 重载=
     String& operator+=(const String &str);		// 重载+=
     bool operator==(const String &str) const;	// 重载==
-	  char& operator[](int n) const;				// 重载[]
+    char& operator[](int n) const;				// 重载[]
 
-	  int getLength() const;		//获取长度
+    int getLength() const;		//获取长度
 
-	  friend istream& operator>>(istream &is, String &str); // 输入
-	  friend ostream& operator<<(ostream &os, String &str); // 输出
+    friend istream& operator>>(istream &is, String &str); // 输入
+    friend ostream& operator<<(ostream &os, String &str); // 输出
 
 private:
     char *data;		//字符串
