@@ -28,15 +28,15 @@ dynamic_cast 主要用于基类和派生类之间的转换。
 C++ 提供 typeid 关键字用于动态获取类型信息。
 
 * typeid 关键字返回对应参数的类型信息
-* typeid 返回一个 type_info 类对象，使用 type_info 类需要包含#include <typeinfo>
+* typeid 返回一个 type_info 类对象，使用 type_info 类需要包含 `#include <typeinfo>`
 
 ```c++
 #include <iostream>
 #include <stdlib.h>
 #include <string>
 #include <typeinfo>
-using namespace std;
 
+using namespace std;
 
 /**
  * 定义移动类：Movable
@@ -100,7 +100,7 @@ void doSomething(Movable *obj)
         bus->carry();
     }
 
-    if(typeid(obj) == typeid(Tank))
+    if(typeid(*obj) == typeid(Tank))
     {
         Tank *tank = dynamic_cast<Tank *>(obj);
         tank->fire();
@@ -111,8 +111,11 @@ int main(void)
 {
     Bus b;
     Tank t;
+    
     doSomething(&b);
+    
     doSomething(&t);
+    
     return 0;
 }
 ```
