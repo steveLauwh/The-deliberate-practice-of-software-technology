@@ -13,3 +13,5 @@
 * [实现 C++ String 类](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/%E5%AE%9E%E7%8E%B0%20C%2B%2B%20String%20%E7%B1%BB.md)
 * [C++ 空类](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/C%2B%2B%20%E7%A9%BA%E7%B1%BB.md)
 * [GoLang 之协程](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/GoLang%20%E4%B9%8B%E5%8D%8F%E7%A8%8B.md)
+* [C 知识点总结](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/C%20%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md)
+* [Singleton 单例模式](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/Singleton%20%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
