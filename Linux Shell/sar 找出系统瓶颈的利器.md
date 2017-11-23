@@ -16,3 +16,11 @@ sar 是 System Activity Reporter（系统活动情况报告）的缩写。sar �
 > 查看 CPU 使用率
 
 `sar -u`：默认情况下显示 CPU 使用率
+
+## 安装
+
+Linux 系统下，默认可能没有安装这个包，使用 `apt-get install sysstat` 来安装；
+
+安装完毕，将性能收集工具的开关打开：`vi /etc/default/sysstat`；设置 `ENABLED=”true”`
+
+启动这个工具来收集系统性能数据：`/etc/init.d/sysstat start`
