@@ -6,8 +6,13 @@
 
 但是只针对当前会话有效。如果要系统生效，在 `/etc/profile` 中添加 `ulimit -c unlimited` 这行，然后 `system /etc/profile` 生效配置。
 
+```
 // 表示不会产生 core 文件
-ulimit -c 0   
+ulimit -c 0 
+  
+// 表示 core 文件最大为 100 blocks(1 blocks = 512字节)
+ulimit -c 100
+```
 
 ### coredump 文件的存储位置
 
