@@ -6,11 +6,24 @@
 
 但是只针对当前会话有效。如果要系统生效，在 `/etc/profile` 中添加 `ulimit -c unlimited` 这行，然后 `system /etc/profile` 生效配置。
 
-ulimit -c 0   // 表示不会产生 core 文件
+// 表示不会产生 core 文件
+ulimit -c 0   
 
-### coredump 文件的默认存储位置
+### coredump 文件的存储位置
 
 默认情况下，core 文件的存储位置与当前可执行程序的位置是在同一目录，文件名为 core。
+
+如果修改产生 core 文件的存储位置，需要操作如下：
+
+`vim /etc/sysctl.conf`，加入两行
+
+```
+kernel.core_pattern = /data/coredump/core_%e_%p
+kernel.core_uses_pid = 0
+```
+`sysctl –p /etc/sysctl.conf`，修改生效。
+
+产生 core 文件，保存在 `/data/coredump` 目录下。
 
 ### 不会生成 coredump 文件
 
