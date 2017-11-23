@@ -20,10 +20,13 @@
 | s        | 执行下一条语句 |
 | b <行号>    |    在代码行号处设置断点    |  
 | bt     |查看函数的堆栈 | 
-| finish       |  退出函数 |  
+| info b |显示当前断点情况|
+|delete breakpoints|删除所有断点|
+| finish       |  退出函数 | 
+|bt/where|当前运行的堆栈列表|
 | q  |    结束调试    |  
 
-## 应用 — gdb 分析和调试 coredump 文件
+## [应用 — gdb 分析和调试 coredump 文件](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/gdb%20%E5%88%86%E6%9E%90%E5%92%8C%E8%B0%83%E8%AF%95%20coredump%20%E6%96%87%E4%BB%B6.md)
 
 core 又叫 coredump 文件，是指程序由于各种异常或者 bug 导致在运行过程中异常退出或者中止，并且在满足一定条件下会产生一个叫做 core 的文件。
 
