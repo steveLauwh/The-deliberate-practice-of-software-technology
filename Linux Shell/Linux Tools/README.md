@@ -1,0 +1,17 @@
+## Linux 工具
+
+* [gdb 调试](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/gdb%20%E8%B0%83%E8%AF%95.md)
+* [gdb 分析和调试 coredump 文件](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/gdb%20%E5%88%86%E6%9E%90%E5%92%8C%E8%B0%83%E8%AF%95%20coredump%20%E6%96%87%E4%BB%B6.md)
+* [ps 进程查看器](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/ps%20%E8%BF%9B%E7%A8%8B%E6%9F%A5%E7%9C%8B%E5%99%A8.md)
+* [iostat 监视 I/O 子系统](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/iostat%20%E7%9B%91%E8%A7%86IO%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
+* [ipcs 查询进程间通信状态](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/ipcs%20%E6%9F%A5%E8%AF%A2%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E7%8A%B6%E6%80%81.md)
+* [ldd 查看程序依赖库](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/ldd%20%E6%9F%A5%E7%9C%8B%E7%A8%8B%E5%BA%8F%E4%BE%9D%E8%B5%96%E5%BA%93.md)
+* [lsof 查看系统文件](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/lsof%20%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6.md)
+* [objdump 二进制文件分析](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/objdump%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6%E5%88%86%E6%9E%90.md)
+* [readelf 分析 ELF 文件格式](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/readelf%20%E5%88%86%E6%9E%90ELF%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.md)
+* [sar 找出系统瓶颈的利器](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/sar%20%E6%89%BE%E5%87%BA%E7%B3%BB%E7%BB%9F%E7%93%B6%E9%A2%88%E7%9A%84%E5%88%A9%E5%99%A8.md)
+* [size 查看程序内存映像大小](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/size%20%E6%9F%A5%E7%9C%8B%E7%A8%8B%E5%BA%8F%E5%86%85%E5%AD%98%E6%98%A0%E5%83%8F%E5%A4%A7%E5%B0%8F.md)
+* [strace 跟踪系统调用和信号传递](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/strace%20%E8%B7%9F%E8%B8%AA%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8%E5%92%8C%E4%BF%A1%E5%8F%B7%E4%BC%A0%E9%80%92.md)
+* [top Linux 下的任务管理器](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/top%20Linux%20%E4%B8%8B%E7%9A%84%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8.md)
+* [vmstat 监视内存使用情况](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/vmstat%20%E7%9B%91%E8%A7%86%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5.md)
+* [free 查询可用内存](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Tools/free%20%E6%9F%A5%E8%AF%A2%E5%8F%AF%E7%94%A8%E5%86%85%E5%AD%98.md)
