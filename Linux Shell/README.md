@@ -18,6 +18,7 @@
 * [vmstat 监视内存使用情况](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/vmstat%20%E7%9B%91%E8%A7%86%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5.md)
 * [free 查询可用内存](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/free%20%E6%9F%A5%E8%AF%A2%E5%8F%AF%E7%94%A8%E5%86%85%E5%AD%98.md)
 
+### [Shell Guides](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Linux%20Shell/Shell%20Guides)
 
 ## 参考
 
