@@ -1,6 +1,6 @@
-﻿## Linux Shell
+## Linux Shell
 
-* [Linux 工具](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Linux%20Shell/Shell%20Tools)
+* [Linux 工具](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Linux%20Shell/Linux%20Tools)
 
 * [Shell Guides](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Linux%20Shell/Shell%20Guides)
 
