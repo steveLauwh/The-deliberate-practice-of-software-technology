@@ -63,3 +63,11 @@ Linux 中的 ps 命令是 Process Status 的缩写。ps 命令用来列出系统
 > 查看系统中所有进程，使用 Linux 标准命令格式
 
 `ps -le`
+
+PRI 代表 Priority，NI 代表 Nice。这两个值都是优先级，数字越小代表该进程优先级越高。
+
+> 修改进程的优先级
+
+`nice -n NI值 进程名`
+
+`renice [优先级] PID`
