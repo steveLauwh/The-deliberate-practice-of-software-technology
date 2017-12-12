@@ -15,3 +15,6 @@
 * [top Linux 下的任务管理器](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/top%20Linux%20%E4%B8%8B%E7%9A%84%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8.md)
 * [vmstat 监视内存使用情况](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/vmstat%20%E7%9B%91%E8%A7%86%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5.md)
 * [free 查询可用内存](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/free%20%E6%9F%A5%E8%AF%A2%E5%8F%AF%E7%94%A8%E5%86%85%E5%AD%98.md)
+* [kill 杀死进程](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/kill%20%E6%9D%80%E6%AD%BB%E8%BF%9B%E7%A8%8B.md)
+* [统计文件的个数](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/%E7%BB%9F%E8%AE%A1%E6%96%87%E4%BB%B6%E7%9A%84%E4%B8%AA%E6%95%B0.md)
+* [统计工程的代码行数](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/%E7%BB%9F%E8%AE%A1%E5%B7%A5%E7%A8%8B%E7%9A%84%E4%BB%A3%E7%A0%81%E8%A1%8C%E6%95%B0.md)
