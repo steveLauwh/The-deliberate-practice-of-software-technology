@@ -13,12 +13,10 @@ tar -zcvf xxx.tar.gz  xxx  // 压缩gz
 
 tar -jxvf xxx.tar.bz2   // 解压缩bz2
 
+tar -jxvf filename.tar.bz2 -C 欲解压缩的目录   // root环境下
+
 tar -zxvf xxx.tar.gz    // 解压缩gz
 ```
-
-压　缩：tar -jcvf filename.tar.bz2 要被压缩的文件或目录名称
-查　询：tar -jtvf filename.tar.bz2 
-解压缩：tar -jxvf filename.tar.bz2 -C 欲解压缩的目录   // root环境下
 
 ## gzip 压缩文件
 
