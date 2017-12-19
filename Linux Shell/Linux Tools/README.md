@@ -20,3 +20,6 @@
 * [统计工程的代码行数](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/%E7%BB%9F%E8%AE%A1%E5%B7%A5%E7%A8%8B%E7%9A%84%E4%BB%A3%E7%A0%81%E8%A1%8C%E6%95%B0.md)
 * [tar 压缩和解压缩文件和目录](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/tar%20%E5%8E%8B%E7%BC%A9%E5%92%8C%E8%A7%A3%E5%8E%8B%E7%BC%A9%E6%96%87%E4%BB%B6%E5%92%8C%E7%9B%AE%E5%BD%95.md)
 * [find 查找文件](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/find%20%E6%9F%A5%E6%89%BE%E6%96%87%E4%BB%B6.md)
+* [grep 文本查找](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/grep%20%E6%96%87%E6%9C%AC%E6%9F%A5%E6%89%BE.md)
+* [sed 命令](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/sed%20%E5%91%BD%E4%BB%A4.md)
+* [awk 命令](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Linux%20Shell/Linux%20Tools/awk%20%E5%91%BD%E4%BB%A4.md)
