@@ -142,4 +142,6 @@ char *strerror(int errnum);
 size_t strlen(const char *s);
 ```
 
+## 参考
 
+* [C library](http://www.cplusplus.com/reference/clibrary/)
