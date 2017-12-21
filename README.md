@@ -6,6 +6,7 @@
 
 ## 技术站点
 
-* 酷壳：https://coolshell.cn/
-* 后端技术：https://timyang.net/
-* 极客学院Wiki：http://wiki.jikexueyuan.com/
+* [SEI CERT C/C++/Java Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
+* [酷壳](https://coolshell.cn/)
+* [后端技术](https://timyang.net/)
+* [极客学院Wiki](http://wiki.jikexueyuan.com/)
