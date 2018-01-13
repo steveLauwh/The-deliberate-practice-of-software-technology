@@ -14,7 +14,7 @@
 
 第一步：安装 Sublime Text 3 文本编辑器
 
-第二步：git https://github.com/jvantuyl/sublime_diagram_plugin.git，把源文件夹放到 Sublime 的 Data\Packages 目录下
+第二步：`git https://github.com/jvantuyl/sublime_diagram_plugin.git`，把源文件夹放到 Sublime 的 Data\Packages 目录下
 
 第三步：安装 Graphviz，需要配置环境变量，配置如下：
 
@@ -39,6 +39,8 @@ Alice <-- Bob: another authentication Response
 @enduml
 ```
 复制到 Sublime，并保存文件，使用快捷键 Alt+M，就可以生成图片。
+
+参考[PlantUML 官方文档](http://plantuml.com/PlantUML_Language_Reference_Guide.pdf)
 
 ### 注意事项
 
