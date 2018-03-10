@@ -4,6 +4,21 @@
 
 问题驱动！
 
+## [Linux Shell](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Linux%20Shell)
+
+## [Programing Language](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Programing%20Language)
+
+## [OS](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/OS)
+
+## [Network](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Network)
+
+## [Distributed Systems](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Distributed%20Systems)
+
+## [Mass Data Processing](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Mass%20Data%20Processing)
+
+## [Tools](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Tools)
+
+
 ## 技术站点
 
 * [SEI CERT C/C++/Java Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
