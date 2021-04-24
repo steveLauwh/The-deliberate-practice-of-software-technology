@@ -27,3 +27,4 @@
 * [后端技术](https://timyang.net/)
 * [极客学院Wiki](http://wiki.jikexueyuan.com/)
 * [Halfrost's Field](https://halfrost.com/)
+* [Online Linux source code](https://elixir.bootlin.com/linux/latest/source)
