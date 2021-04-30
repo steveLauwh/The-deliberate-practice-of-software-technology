@@ -20,4 +20,4 @@
 
 ## CS107：Computer Organization & Systems
 
-[CS107](https://web.stanford.edu/class/archive/cs/cs107/cs107.1206/schedule.html)
+[斯坦福公开课CS107](https://web.stanford.edu/class/archive/cs/cs107/cs107.1206/schedule.html)
