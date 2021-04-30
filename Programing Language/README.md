@@ -17,3 +17,7 @@
 * [Singleton 单例模式](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/Singleton%20%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 * [C/C++ 中在头文件包含函数的实现，会导致什么问题？](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/C%20%E5%92%8C%20C%2B%2B%E4%B8%AD%E5%9C%A8%E5%A4%B4%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%8C%E4%BC%9A%E5%AF%BC%E8%87%B4%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98.md)
 * [常用 C 库函数](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/%E5%B8%B8%E7%94%A8%20C%20%E5%BA%93%E5%87%BD%E6%95%B0.md)
+
+## CS107：Computer Organization & Systems
+
+[CS107](https://web.stanford.edu/class/archive/cs/cs107/cs107.1206/schedule.html)
