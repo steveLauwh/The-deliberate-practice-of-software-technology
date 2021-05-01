@@ -22,4 +22,4 @@
 
 [斯坦福公开课CS107](https://web.stanford.edu/class/archive/cs/cs107/cs107.1206/schedule.html)
 
-![](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/tree/master/Programing%20Language/CS107/Lecture1.png)
+![](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/raw/master/Programing%20Language/CS107/Lecture1.png)
