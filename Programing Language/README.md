@@ -24,3 +24,5 @@
 
 * [Welcome to CS107](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture1.md)
 * [Bits and Bytes; Integer Representations](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture2.md)
+* [Bits and Bitwise Operators](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture3.md)
+* [Chars and C-Strings](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture4.md)
