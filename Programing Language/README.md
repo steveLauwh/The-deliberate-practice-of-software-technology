@@ -1,4 +1,4 @@
-## 编程语言相关的问题
+﻿## 编程语言相关的问题
 
 * [C 和 C++ 内存管理](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/C%20%E5%92%8C%20C%2B%2B%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
 * [C++ STL map](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/C%2B%2B%20STL%20map.md)
@@ -27,3 +27,4 @@
 * [Bits and Bitwise Operators](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture3.md)
 * [Chars and C-Strings](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture4.md)
 * [More C-Strings](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture5.md)
+* [Arrays and Pointers](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture6.md)
