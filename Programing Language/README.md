@@ -29,3 +29,4 @@
 * [More C-Strings](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture5.md)
 * [Arrays and Pointers](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture6.md)
 * [Stack and Heap](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture7.md)
+* [Generics](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture8.md)
