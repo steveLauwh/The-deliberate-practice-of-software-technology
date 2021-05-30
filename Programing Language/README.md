@@ -32,3 +32,4 @@
 * [Generics](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture8.md)
 * [More Generics](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture9.md)
 * [Introduction to Assembly](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture10.md)
+* [Assembly: Arithmetic and Logic](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture11.md)
