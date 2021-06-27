@@ -37,3 +37,4 @@
 * [x86-64 Function Calls and the runtime Stack](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture13.md)
 * [x86-64 Managing the Heap](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture14.md)
 * [x86-64 Optimization](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture15.md)
+* [Wrap-up](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/Programing%20Language/CS107/Lecture16.md)
