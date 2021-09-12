@@ -22,5 +22,6 @@
 * Makes hardware useful to the programmer
 * Provides abstractions for applications
 * Provides protection
+![image](https://user-images.githubusercontent.com/7018329/132988826-e2ade9b3-49f5-4a74-a0ea-a494400d8569.png)
 
 
