@@ -14,22 +14,23 @@
 
 |  章节   | 提炼重点  |
 |  ----  | ----  |
-| Introduction  |  |
-| Processes & Threads  |  |
-| Concurrency  |  |
-| Scheduling  |  |
-|Virtual memory OS| |
-|Synchronization 1| |
-|Synchronization 2| |
-|Linking| |
-|Memory allocation| |
-|I/O and disks|  |
-|File systems|  |
-|Advanced file systems| |
-|Networking| |
-|Protection| |
-|Security| |
-|Virtual machines| |
+|1.Introduction  |  |
+|2.Processes & Threads  |  |
+|3.Concurrency  |  |
+|4.Scheduling  |  |
+|5.Virtual memory HW| |
+|6.Virtual memory OS| |
+|7.Synchronization 1| |
+|8.Synchronization 2| |
+|9.Linking| |
+|10.Memory allocation| |
+|11.I/O and disks|  |
+|12.File systems|  |
+|13.Advanced file systems| |
+|14.Networking| |
+|15.Protection| |
+|16.Security| |
+|17.Virtual machines| |
 
 ## 阅读
 
