@@ -12,6 +12,12 @@
 ## CS140: Operating Systems
 参考：[斯坦福大学CS140](https://www.scs.stanford.edu/21wi-cs140/notes/)
 
+|  章节   | 提炼重点  |
+|  ----  | ----  |
+| Introduction  |  |
+| Processes & Threads  |  |
+
+
 ## 阅读
 
 * [《程序员的自我修养——链接、装载与库》](https://book.douban.com/subject/3652388/)
