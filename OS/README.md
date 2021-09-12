@@ -14,7 +14,7 @@
 
 |  章节   | 提炼重点  |
 |  ----  | ----  |
-|1. Introduction  |  |
+|1. Introduction  | [概述](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/OS/CS140/Introduction.md) |
 |2. Processes & Threads  |  |
 |3. Concurrency  |  |
 |4. Scheduling  |  |
