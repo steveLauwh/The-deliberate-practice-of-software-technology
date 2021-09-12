@@ -18,3 +18,9 @@
 * 如何处理更大的软件系统
 
 ### What is an operating system?
+* Layer between applications and hardware
+* Makes hardware useful to the programmer
+* Provides abstractions for applications
+* Provides protection
+
+
