@@ -27,7 +27,7 @@
 
 ### Why study operating systems?
 * 操作系统是一个成熟的领域
-* 操作系统一直存在开放问题:安全和可扩展性
+* 操作系统一直存在开放：安全和可扩展性
 * 高性能服务器
 * 资源消耗
 * 新“智能”设备需要新的操作系统
@@ -36,6 +36,9 @@
 * 多任务（抢占，内存保护）
 * 多用户
 * Protection 保护机制
-* 提供 System calls 机制给用户，访问内核
+* System calls 应用程序可以通过系统调用来调用内核
 * Address translation 地址转换，虚实地址
 * Context switch 上下文切换
+
+![image](https://user-images.githubusercontent.com/7018329/134146375-36b22a53-6b06-4074-93aa-f150dde92312.png)
+
