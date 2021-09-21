@@ -48,6 +48,7 @@
 
 
 **Process states**
+
 ![image](https://user-images.githubusercontent.com/7018329/134162942-ab607836-5cdb-41d8-b555-dacbd8b39bf6.png)
 
 * Process can be in one of several states
@@ -59,4 +60,18 @@
 * Priority?
 
 **Preemption**
-* 
+* 当内核获得控制权时可以抢占进程
+* 运行进程可以向量控制到内核
+* 周期性定时器中断
+* 设备中断
+* 上下文切换
+
+**Context switch**
+
+
+
+
+
+
+
+
