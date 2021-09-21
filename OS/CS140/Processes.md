@@ -12,3 +12,36 @@
 * 多进程可以提高CPU利用率
 * 多进程可以减少延迟
 
+**A process’s view of the world**
+
+![image](https://user-images.githubusercontent.com/7018329/134156581-f8428f39-4ce8-418a-9e3b-3faacbed2e51.png)
+
+**Inter-Process Communication**
+
+![image](https://user-images.githubusercontent.com/7018329/134158263-0b184c26-ec77-4fc4-b7f7-fc476db15c4c.png)
+
+进程如何实时交互：
+* 通过内核传递消息
+* 通过共享一个物理内存区域
+* 通过异步信号或告警
+
+**(UNIX-centric) User view of processes**
+* 创建进程：fork、waitpid
+* 删除进程：exit、kill
+* 运行进程：execve、execvp、execlp
+* 管道：pipe
+
+**Kernel view of processes**
+
+![image](https://user-images.githubusercontent.com/7018329/134161985-8dffdf92-23e2-498e-8066-f80acd7990aa.png)
+
+* Keep a data structure for each process
+* Tracks state of the process
+* Includes information necessary to run
+* Various other data about the process
+
+Process states
+
+
+
+
