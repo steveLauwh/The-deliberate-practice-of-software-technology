@@ -4,7 +4,7 @@
 
 ### Course topics：
 * Threads & Processes 线程和进程
-* Concurrency & Synchronization 并非和同步
+* Concurrency & Synchronization 并发和同步
 * Scheduling 调度
 * Virtual Memory 虚拟内存
 * I/O  输入和输出
