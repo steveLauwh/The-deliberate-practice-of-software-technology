@@ -71,6 +71,7 @@
 ![image](https://user-images.githubusercontent.com/7018329/134166405-fcbdaabd-0b2a-4f49-9722-b3199e2b6d39.png)
 
 **Threads**
+
 ![image](https://user-images.githubusercontent.com/7018329/134753552-72763630-1e25-4ce1-8ed1-79180a13fad6.png)
 * A thread is a schedulable execution context
 * Simple programs use one thread per process
@@ -82,12 +83,14 @@
 * void thread_join (tid thread); 等待线程退出
 
 **Kernel threads**
+
 ![image](https://user-images.githubusercontent.com/7018329/134754399-059df9fa-1bd3-4bc4-bcf9-2bbe2434faf6.png)
 * Every thread operation must go through kernel
 * One-size fits all thread implementation
 * General heavy-weight memory requirements
 
 **User threads**
+
 ![image](https://user-images.githubusercontent.com/7018329/134754501-0a31fd6d-944d-4fee-b954-95bb59e72c74.png)
 * Implement as user-level library (a.k.a. green threads)
 * One kernel thread per process
