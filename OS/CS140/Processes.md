@@ -70,6 +70,16 @@
 
 ![image](https://user-images.githubusercontent.com/7018329/134166405-fcbdaabd-0b2a-4f49-9722-b3199e2b6d39.png)
 
+**Threads**
+![image](https://user-images.githubusercontent.com/7018329/134753552-72763630-1e25-4ce1-8ed1-79180a13fad6.png)
+* A thread is a schedulable execution context
+* Simple programs use one thread per process
+* Multiple threads running in same process’s address space
+
+**Thread package API**
+* tid thread_create (void (*fn) (void *), void *); 创建一个线程
+* void thread_exit ();  销毁当前线程
+* void thread_join (tid thread); 等待线程退出
 
 
 
