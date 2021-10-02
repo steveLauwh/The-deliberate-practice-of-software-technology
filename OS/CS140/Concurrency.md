@@ -1,4 +1,4 @@
-## 3. Concurrency
+## 3. Concurrency 并发
 
 ### Sequential Consistency
 
