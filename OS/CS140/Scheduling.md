@@ -24,4 +24,10 @@
 * SJF Scheduling：Shortest-job first (SJF) 最短作业优先
 * Round robin (RR) scheduling：循环调度
 
+### Priority scheduling
+
+将数字优先级与每个进程相关联
+
+### Scheduling with virtual time
+
 
