@@ -18,3 +18,10 @@
 * CPU utilization：CPU执行工作的时间比例
 * Waiting time：每个进程在就绪队列中等待的时间
 
+### 调度算法
+
+* FCFS Scheduling：First-come first-served (FCFS) 先到先得
+* SJF Scheduling：Shortest-job first (SJF) 最短作业优先
+* Round robin (RR) scheduling：循环调度
+
+
