@@ -17,7 +17,7 @@
 |1. Introduction  | [概述](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/OS/CS140/Introduction.md) |
 |2. Processes & Threads  | [进程&线程](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/OS/CS140/Processes.md) |
 |3. Concurrency  | [并发](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/OS/CS140/Concurrency.md) |
-|4. Scheduling  |  |
+|4. Scheduling  | [调度](https://github.com/steveLauwh/The-deliberate-practice-of-software-technology/blob/master/OS/CS140/Scheduling.md) |
 |5. Virtual memory HW| |
 |6. Virtual memory OS| |
 |7. Synchronization 1| |
