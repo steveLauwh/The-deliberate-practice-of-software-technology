@@ -10,3 +10,5 @@
 
 每个程序都有自己的虚拟地址空间。
 
+![image](https://user-images.githubusercontent.com/7018329/136682474-bf55d5ac-9d44-4220-ae5c-47669931b835.png)
+
